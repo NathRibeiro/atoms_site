@@ -1,5 +1,18 @@
 Events {#events}
 ======
+----------------------------------------------------------------------------------------------------
+ATOMS Seminar: Experimental Determination and Non-Equilibrium Molecular Dynamics Simulation of Thermodiffusion Coefficients of Mixtures
+  ----------------------------------------------------------------------------------------------------
+
+    Filipe Furtado
+    PEQ / COPPE / UFRJ
+
+* __Date__: February 19, 2016
+* __Time__: 12:00 am
+* __Location__: Room E-205
+
+Thermodiffusion phenomenon or Soret effect is the mass diffusion induced by a thermal gradient in mixtures. Several processes in industry and nature are subjected to temperature gradients, which thermodiffusion may occur. One example is the compositional grading in oil reservoirs. Because of the geothermal gradient the reservoir is subjected the constituents of the oil may segregate in a different way. One of the well known cases of thermodiffusion highly influencing the segregation of components is the Yufutsu field in Japan. In the Yufutsu field an upside-down effect was observed, which meant a heavy fraction of oil in the top part of the reservoir while in a light fraction was found in the bottom. We have been using simulation techniques and experiments to determine the Soret coefficients in mixtures. The simulation part is being conducted at UFRJ while the experimental part was conducted at Yale. In the simulation part we are using non-equilibrium molecular dynamic techniques while developing new algorithms that surpass the limitations of the commonly used in literature. The experiment part was accomplished using an Optical Beam Deflection Setup that was built and updated at Yale University.
+
 
 ----------------------------------------------------------------------------------------------------
 ATOMS Seminar: Equations of State in Three Centuries - What have we learned? What more needs to be done?
